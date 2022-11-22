@@ -12,13 +12,13 @@ int main() {
 		break;
 	case 3: cout << "Березень." << endl;
 		break;
-	case 4: cout << "Квітень." << endl;
+	case 4: cout << " Квітень." << endl;
 		break;
-	case 5: cout << "Травень." << endl;
+	case 5: cout << " Травень." << endl;
 		break;
-	case 6: cout << "Червень." << endl;
+	case 6: cout << " Червень." << endl;
 		break;
-	case 7: cout << "Липень." << endl;
+	case 7: cout << " Липень." << endl;
 		break;
 	case 8: cout << "Серпень." << endl;
 		break;
